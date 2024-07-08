@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Blood Donor Card</string>
+
+    <string name="changelang">Change Language</string>
+    <string name="Skip">Skip</string>
+    <string name="BloodDonorCard">Blood Donor Card</string>
+    <string name="enteryouremail">enter your Email</string>
+    <string name="enteryourpassword">Enter your password</string>
+    <string name="Login">Login</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="DonothaveaccountRegisterhere">Do not have account? Register here!</string>
+    <string name="Registration">Registration</string>
+    <string name="National">National Blood Donation Center</string>
+    <string name="Address">Olympian Chr. Mantika 7, Acharnes, PC 13678 </string>
+    <string name="mitrwo">National Register of Blood Donors</string>
+    <string name="address1">7 Kifissias Ave., Ampelokipi, PC 11523</string>
+    <string name="Settings">Settings</string>
+    <string name="Email">Email</string>
+    <string name="TobeaBloodDonor">To be a Blood Donor</string>
+    <string name="Questionnaire">Questionnaire</string>
+    <string name="ForTheBloodDonor">For The Blood Donor</string>
+    <string name="BloodDonationProgram">Blood Donation Program</string>
+    <string name="BloodDonationReminder">Blood Donation Reminder</string>
+    <string name="Logout">Logout</string>
+    <string name="ChangeProfile">Change Profile</string>
+    <string name="close">Close</string>
+    <string name="Save">save</string>
+    <string name="enterpassword">Enter password</string>
+    <string name="Contact">Contact</string>
+    <string name="Amka">Amka</string>
+    <string name="FindYourAMKA">Find Your Amka</string>
+    <string name="Register">Register</string>
+    <string name="quest_header">What is the purpose of this questionnaire?</string>
+    <string name="quest1"> **You will need to complete a questionnaire confidentially each time you
+        donate blood. Your answers will give us a good idea about your state of health,
+        it is very important for us all our blood donors to be safe. In addition it can help you to have an opinion about your health.</string>
+    <string name="quest2">**Based on the answers we may ask you not to donate blood. This can happen to otherwise
+        healthy people, even a small cold can be a cause of exclusion. In order to avoid an unsuccessful
+        blood donation attempt, check the list that does not allow you to donate blood.
+        "Download" the questionnaire and contact us if you have any questions.</string>
+    <string name="quest_button">BLOOD DONOR QUESTIONNAIRE</string>
+    <string name="forthedonorheader">What happens after you donate blood? </string>
+    <string name="whathappend">After the blood donation is completed, all blood units are transferred to laboratories for testing and processing.
+    This should be done as soon as possible after the blood sampling is completed to ensure processing and preparation for as long as possible.
+        as many blood products as possible.</string>
+    <string name="Saveheader">Storage</string>
+    <string name="Storage"> After the end of the tests, special labels are placed on the blood units that indicate the results of the tests and the
+        blood type (the procedure is called marking) as well as the expiration limit and then the units are placed in the refrigerators ready
+        to be distributed to anyone in need. Conditions vary depending on the product.</string>
+    <string name="tobeHeader">Would you like to donate blood but have not yet decided? </string>
+    <string name="tobe">Research has shown that while 75% of the population may need a blood transfusion at some point in their lives, only a small
+        percentage of about 1.5% are blood donors. If you are healthy, chances are you can donate blood and thus help the numbers come out.
+        With just one blood donation you can save three lives, without costing you anything. </string>
+    <string name="todonateHeader"> You can donate blood if… </string>
+    <string name="todonate">  # You are between 18 and 65 years old. \n
+                            \n # You weigh over 50kg. \n
+                            \n# You are healthy. \n
+                            \n # You have a safe lifestyle. \n
+                         \n    # You are determined to help others.</string>
+    <string name="FirtLastName">First and Last Name</string>
+    <string name="Typebllodtext"> Type of Blood </string>
+    <string name="Saving"> Save</string>
+    <string name="Find">Find a place to Donate </string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

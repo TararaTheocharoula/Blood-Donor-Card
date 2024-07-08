@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blutspenderkarte</string>
+
+
+    <string name="BloodDonorCard">Blutspenderkarte</string>
+    <string name="enteryouremail">Geben sie ihre E-Mail Adresse ein </string>
+    <string name="enteryourpassword">Geben Sie Ihr Passwort ein</string>
+    <string name="Login">Einloggen</string>
+    <string name="Skip">Überspringen</string>
+    <string name="ForgotPassword">Passwort vergessen?</string>
+    <string name="DonothaveaccountRegisterhere">Sie haben noch keinen Account? Hier registrieren!</string>
+    <string name="Registration">Anmeldung</string>
+    <string name="Address">Olympian Chr. Mantika 7, Acharnes, PC 13678</string>
+    <string name="mitrwo">Nationales Register der Blutspender</string>
+    <string name="Contact">Kontakt</string>
+    <string name="Register">Registrieren</string>
+    <string name="National">Nationales Blutspendezentrum</string>
+    <string name="BloodDonationReminder">Erinnerung an Blutspenden</string>
+    <string name="Email">Email</string>
+    <string name="enterpassword">Geben Sie Ihr Passwort ein</string>
+    <string name="address1">7 Kifisias Ave., Ampelokipi, PC 11523</string>
+    <string name="Logout">Ausloggen</string>
+    <string name="ChangeProfile">Profil ändern</string>
+    <string name="close">Schließen</string>
+    <string name="Save">Sparen</string>
+    <string name="BloodDonationProgram">Blutspendeprogramm</string>
+    <string name="Amka">Amka</string>
+    <string name="Settings">die Einstellungen</string>
+    <string name="ForTheBloodDonor">Für den Blutspender</string>
+    <string name="Questionnaire">Fragebogen</string>
+    <string name="TobeaBloodDonor">Ein Blutspender sein</string>
+    <string name="FindYourAMKA">Finde deine Amka</string>
+    <string name="changelang">Sprache ändern</string>
+    <string name="quest_header">Was ist der Zweck dieses Fragebogens?</string>
+    <string name="quest1"> **Sie müssen jedes Mal einen Fragebogen vertraulich ausfüllenspende Blut. Ihre Antworten geben uns eine gute Vorstellung von
+        Ihrem Gesundheitszustand.Es ist sehr wichtig, dass wir alle unsere Blutspender sicher sind. Darüber hinaus kann es Ihnen helfen, eine Meinung über
+        Ihre Gesundheit zu haben.</string>
+    <string name="quest2">**Aufgrund der Antworten bitten wir Sie möglicherweise, kein Blut zu spenden. Dies kann auch anders passierengesunde Menschen, auch
+        eine kleine Erkältung kann eine Ursache für Ausgrenzung sein. Um einen erfolglosen zu vermeiden Überprüfen Sie die Liste, in der Sie kein Blut spenden
+        können.Laden Sie den Fragebogen herunter und kontaktieren Sie uns, wenn Sie Fragen haben.</string>
+    <string name="quest_button">FRAGEBOGEN FÜR BLUTSPENDER</string>
+    <string name="forthedonorheader">Was passiert nach einer Blutspende? </string>
+    <string name="whathappend"> Nachdem die Blutspende abgeschlossen ist, werden alle Bluteinheiten zur Untersuchung und Verarbeitung in Labors überführt.
+    Dies sollte so schnell wie möglich nach Abschluss der Blutentnahme erfolgen, um eine möglichst lange Verarbeitung und Vorbereitung zu gewährleisten.
+        so viele Blutprodukte wie möglich. </string>
+    <string name="Saveheader">Speichern</string>
+    <string name="Storage"> Nach dem Ende der Tests werden die Bluteinheiten mit speziellen Etiketten versehen, die die Ergebnisse der Tests und die
+        Blutgruppe(das Verfahren wird als Markierung bezeichnet) sowie das Verfallsdatum angeben, und dann werden die Einheiten gebrauchsfertig in
+        die Kühlschränke gestellt an Bedürftige verteilt werden. Die Bedingungen variieren je nach Produkt.</string>
+    <string name="tobeHeader">Sie möchten Blut spenden, haben sich aber noch nicht entschieden? </string>
+    <string name="tobe">Untersuchungen haben gezeigt, dass zwar 75 % der Bevölkerung irgendwann in ihrem Leben eine Bluttransfusion benötigen,
+        aber nur ein kleiner Prozentsatzvon etwa 1,5 % Blutspender sind. Wenn Sie gesund sind, können Sie wahrscheinlich Blut spenden und so dazu
+        beitragen, dass die Zahlen herauskommen. Mit nur einer Blutspende können Sie drei Leben retten, ohne dass es Sie etwas kostet. </string>
+    <string name="todonateHeader"> Sie können Blut spenden, wenn … </string>
+    <string name="todonate">  # Sie sind zwischen 18 und 65 Jahre alt. \n
+                          \n   # Du wiegst über 50 kg. \n
+                          \n   # Du bist gesund. \n
+                          \n   # Sie haben einen sicheren Lebensstil. \n
+                          \n   # Sie sind entschlossen, anderen zu helfen. </string>
+    <string name="FirtLastName">vollständiger Name </string>
+    <string name="Typebllodtext"> Blutgruppe </string>
+    <string name="Saving"> Sparen </string>
+    <string name ="Find">Finden Sie einen Ort zum Spenden </string>
+
+
+</resources>

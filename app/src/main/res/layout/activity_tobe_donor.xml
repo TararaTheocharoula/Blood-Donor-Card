@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TobeDonor">
+
+    <TextView
+        android:id="@+id/forthedonorheader"
+        android:layout_width="376dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/tobeHeader"
+        android:textColor="#ED1111"
+        android:textSize="25dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+    <TextView
+        android:id="@+id/whathappend"
+        android:layout_width="wrap_content"
+        android:layout_height="185dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="280dp"
+        android:layout_marginTop="120dp"
+        android:text="@string/tobe"
+        android:textColor="#000000"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/Header"
+        android:layout_width="380dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginBottom="250dp"
+        android:text="@string/todonateHeader"
+        android:textColor="#ED1111"
+        android:textSize="25dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+    <TextView
+        android:id="@+id/todonate"
+        android:layout_width="376dp"
+        android:layout_height="210dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="360dp"
+        android:text="@string/todonate"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+
+</RelativeLayout>

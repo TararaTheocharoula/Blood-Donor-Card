@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Κάρτα αιμοδοσίας</string>
+    <string name="changelang">Αλλαγή Γλώσσας</string>
+    <string name="BloodDonorCard">Κάρτα Αιμοδοσίας</string>
+    <string name="enteryouremail">Εισάγεται το Email σας</string>
+    <string name="enteryourpassword">Εισάγεται τον κωδικό Πρόσβασης</string>
+    <string name="Login">Σύνδεση</string>
+    <string name="ForgotPassword">Ξεχάσατε τον κωδικό σας;</string>
+    <string name="DonothaveaccountRegisterhere">Δεν έχετε λογαριασμό; Εγγραφείτε εδώ!</string>
+    <string name="Registration">Εγγραφή</string>
+    <string name="Email">Email</string>
+    <string name="Skip">Παράβλεψη</string>
+    <string name="Amka">AMKA</string>
+    <string name="Register">Εγγραφή</string>
+    <string name="Contact">Επικοινωνία</string>
+    <string name="National">Εθνικό Κέντρο Αιμοδοσίας</string>
+    <string name="Address">Ολυμπιονίκη Χρ.Μάντικα 7,Αχαρνές, ΤΚ 13678 </string>
+    <string name="FindYourAMKA">Βρές το ΑΜΚΑ σου</string>
+    <string name="BloodDonationProgram">Πρόγραμμα Αιμοδοσίας</string>
+    <string name="BloodDonationReminder">Ημερολόγιο Αιμοδοσίας </string>
+    <string name="Logout">Έξοδος</string>
+    <string name="ChangeProfile">Αλλαγή προφίλ</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="Save">Αποθήκευση</string>
+    <string name="mitrwo">Εθνικό Μητρώο Αιμοδοτών</string>
+    <string name="address1">Λ. Κηφισίας 7, Αμπελόκηποι,ΤΚ 11523 </string>
+    <string name="Settings">Ρυθμίσεις</string>
+    <string name="TobeaBloodDonor">Για να γίνεις Αιμοδότης </string>
+    <string name="Questionnaire">Ερωτηματολόγιο</string>
+    <string name="ForTheBloodDonor">Για τον Αιμοδότη</string>
+    <string name="enterpassword">Εισάγεται τον κωδικό Πρόσβασης</string>
+    <string name="quest_header">Ποιος είναι ο σκοπός αυτού του ερωτηματολογίου;</string>
+    <string name="quest1"> **Θα χρειαστεί να συμπληρώσεις εμπιστευτικά ένα ερωτηματολόγιο κάθε φορά που δίνεις αίμα.Οι απαντήσεις σου θα μας δώσουν
+        μια καλή ιδέα σχετικά με την κατάσταση της υγείας σου,είναι πολύ σημαντικό για εμάς όλοι οι αιμοδότες μας να είναι ασφαλείς.
+        Επιπρόσθετα μπορεί να βοηθήσει κα εσένα να έχεις μια άποψη για την υγεία σου.</string>
+    <string name="quest2">**Βασιζόμενοι στις απαντήσεις μπορεί να σου ζητήσουμε να μην δώσεις αίμα. Αυτό μπορεί να συμβεί σε απολύτως κατά τα άλλα υγιείς ανθρώπους,
+        ακόμη και ένα μικρό κρυολόγημα μπορεί να είναι αιτία αποκλεισμού. Προκειμένου να αποφύγεις μία ανεπιτυχή προσπάθεια αιμοδοσίας, έλεγξε τον κατάλογο που δεν
+        σου επιτρέπει να δώσεις αίμα. «Κατέβασε» το ερωτηματολόγιο και επικοινώνησε μαζί μας εάν έχεις απορίες..</string>
+    <string name="quest_button">ΕΡΩΤΗΜΑΤΟΛΟΓΙΟ ΑΙΜΑΔΟΣΙΑΣ</string>
+    <string name="forthedonorheader">Τι γίνεται αφού δώσεις αίμα; </string>
+    <string name="whathappend">Μετά το τέλος της αιμοδοσίας όλες οι μονάδες αίματος μεταφέρονται στα εργαστήρια για έλεγχο και επεξεργασία.
+        Αυτό πρέπει να γίνει όσο το δυνατόν συντομότερα μετά το πέρας των αιμοληψιών έτσι ώστε να διασφαλιστεί η επεξεργασία και παρασκευή όσο
+        το δυνατόν περισσότερων προϊόντων αίματος.</string>
+    <string name="Saveheader"> Αποθήκευση </string>
+    <string name="Storage"> Μετά το τέλος των ελέγχων στις  μονάδες αίματος τοποθετούνται ειδικές ετικέτες που αναγράφουν τα αποτελέσματα
+        των ελέγχων και την ομάδα αίματος (η διαδικασία αυτή ονομάζεται σήμανση) καθώς και το όριο λήξης και στη συνέχεια οι μονάδες τοποθετούνται
+        στα ψυγεία έτοιμες πλέον να διατεθούν σε όποιον τις έχει ανάγκη. Οι συνθήκες αποθήκευσης διαφέρουν ανάλογα με το προϊόν.</string>
+    <string name="tobeHeader">Θα θέλατε να δώσετε αίμα αλλά δεν το έχετε αποφασίσει ακόμα; </string>
+    <string name="tobe">Έρευνες έχουν δείξει ότι ενώ το 75% του πληθυσμού μπορεί κάποια στιγμή της ζωής του να χρειαστεί μετάγγιση αίματος μόνο
+        ένα μικρό ποσοστό περίπου 1,5% είναι αιμοδότες. Εάν είσαι υγιής, το πιθανότεροείναι ότι μπορείς να προσφέρεις αίμα και έτσι να βοηθήσεις
+        και εσύ να βγουν τα νούμερα. Με μία μόνο αιμοδοσία μπορείς να σώσεις τρείς ζωές, χωρίς να σου κοστίσει τίποτα. </string>
+    <string name="todonateHeader"> Μπορείς να προσφέρεις αίμα εάν…</string>
+    <string name="todonate">  # Είσαι μεταξύ 18 και 65 ετών. \n
+                           \n  # Ζυγίζεις πάνω από 50kg. \n
+                           \n  # Είσαι υγιής. \n
+                           \n  # Έχεις ασφαλή τρόπο ζωής. \n
+                          \n   # Είσαι αποφασισμένος να βοηθάς τους άλλους.</string>
+
+    <string name="FirtLastName">Ονοματεπώνυμο </string>
+    <string name="Typebllodtext"> Ομάδα Αίματος </string>
+    <string name="Saving"> Αποθήκευση </string>
+    <string name ="Find">Που μπορώ να Αιμοδοτήσω? </string>
+
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="566dp"
+        app:srcCompat="@drawable/images" />
+
+    <ImageView
+        android:id="@+id/settingimage"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="98dp"
+        app:srcCompat="@drawable/ic_blood" />
+
+    <TextView
+        android:id="@+id/Find"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="112dp"
+        android:layout_marginEnd="6dp"
+        android:text="@string/Find"
+        android:textSize="26dp" />
+
+    <ImageView
+        android:id="@+id/Donor"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="252dp"
+        app:srcCompat="@drawable/teamwork" />
+
+    <TextView
+        android:id="@+id/FortheDonor"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="94dp"
+        android:layout_marginTop="252dp"
+        android:text="@string/ForTheBloodDonor"
+        android:textSize="26dp" />
+
+    <ImageView
+        android:id="@+id/tobea"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="173dp"
+        app:srcCompat="@drawable/aima" />
+
+    <TextView
+        android:id="@+id/ToBeADonorText"
+        android:layout_width="292dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="174dp"
+        android:text="@string/TobeaBloodDonor"
+        android:textSize="26dp"
+        tools:ignore="InvalidId" />
+
+    <ImageView
+        android:id="@+id/question"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="324dp"
+        app:srcCompat="@drawable/question" />
+
+
+    <TextView
+        android:id="@+id/Questi"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="92dp"
+        android:layout_marginTop="324dp"
+        android:text="@string/Questionnaire"
+        android:textSize="26dp" />
+
+    <ImageView
+        android:id="@+id/program"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="400dp"
+        app:srcCompat="@drawable/program" />
+
+    <TextView
+        android:id="@+id/progText"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="89dp"
+        android:layout_marginTop="398dp"
+        android:text="@string/BloodDonationProgram"
+        android:textSize="26dp" />
+
+    <ImageView
+        android:id="@+id/contact"
+        android:layout_width="87dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="470dp"
+        app:srcCompat="@drawable/chat" />
+
+    <TextView
+        android:id="@+id/ContactText"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="92dp"
+        android:layout_marginTop="469dp"
+        android:text="@string/Contact"
+        android:textSize="26dp"
+        tools:ignore="InvalidId" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginBottom="10dp"
+        app:srcCompat="@drawable/images" />
+
+
+</RelativeLayout>

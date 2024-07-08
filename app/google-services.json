@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275097168743",
+    "firebase_url": "https://blooddonorcard-9a3f0.firebaseio.com",
+    "project_id": "blooddonorcard-9a3f0",
+    "storage_bucket": "blooddonorcard-9a3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275097168743:android:207dd939ab21e339549dc2",
+        "android_client_info": {
+          "package_name": "com.example.blooddonorcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275097168743-0uuamgslr8a5jls8k29neg5qqbovnklk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blooddonorcard",
+            "certificate_hash": "c24deb9ef23cf4912b541dbd03390829746ce5b9"
+          }
+        },
+        {
+          "client_id": "275097168743-diq1qerj4joman5q8daj2q0na8493viv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUdyrj8BkXieVjHteC62IHhA0Q2bdx0Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275097168743-diq1qerj4joman5q8daj2q0na8493viv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
